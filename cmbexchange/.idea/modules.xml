@@ -1,0 +1,8 @@
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/txbits-build.iml" filepath="$PROJECT_DIR$/.idea_modules/txbits-build.iml"/>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/txbits.iml" filepath="$PROJECT_DIR$/.idea_modules/txbits.iml"/>
+    </modules>
+  </component>
+</project>
